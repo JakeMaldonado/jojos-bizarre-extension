@@ -1,4 +1,5 @@
 <img src="https://i.redd.it/mf76q57c4hu21.png" />
+
 # JoJo's Bizarre Extension
 
 This extension will add the "to be continued" outro effect to your current tab. 
